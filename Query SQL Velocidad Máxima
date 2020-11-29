@@ -1,0 +1,4 @@
+SELECT 
+MAX (speed) maxima_velocidad
+FROM `smart-monitor-297018._ad0f0df8b72a26c91efc061cd80c6961a0bab27e.anon55b08ea341ba3567f481c8ed031369f430ae0926`
+WHERE speed < 150
